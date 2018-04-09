@@ -1,0 +1,2627 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180409000000 +0100" stop="20180409235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180410000000 +0100" stop="20180410235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180411000000 +0100" stop="20180411235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180412000000 +0100" stop="20180412235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180413000000 +0100" stop="20180413235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180414000000 +0100" stop="20180414235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180415000000 +0100" stop="20180415235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180409171500 -0300" stop="20180409173000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409173000 -0300" stop="20180409174800 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409174800 -0300" stop="20180409180000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409180000 -0300" stop="20180409181200 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409181200 -0300" stop="20180409183000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409183000 -0300" stop="20180409184100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409184100 -0300" stop="20180409185900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409185900 -0300" stop="20180409190000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409190000 -0300" stop="20180409191000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409191000 -0300" stop="20180409191500 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409191500 -0300" stop="20180409200000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409200000 -0300" stop="20180409201500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409201500 -0300" stop="20180409203000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409203000 -0300" stop="20180409204500 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409204500 -0300" stop="20180409210000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409210000 -0300" stop="20180409220000 -0300" channel="Cartoon Network">
+    <title lang="pt">Unigata</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409220000 -0300" stop="20180409221200 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409221200 -0300" stop="20180409223000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409223000 -0300" stop="20180409224100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409224100 -0300" stop="20180409225900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409225900 -0300" stop="20180409230000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409230000 -0300" stop="20180409231000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409231000 -0300" stop="20180409231100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409231100 -0300" stop="20180409232800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409232800 -0300" stop="20180409233900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409233900 -0300" stop="20180409235500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180409235500 -0300" stop="20180410000000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410000000 -0300" stop="20180410000600 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Super</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410000600 -0300" stop="20180410003000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410003000 -0300" stop="20180410010000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Super</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410010000 -0300" stop="20180410011000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410011000 -0300" stop="20180410012700 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410012700 -0300" stop="20180410013800 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410013800 -0300" stop="20180410015500 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410015500 -0300" stop="20180410020000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410020000 -0300" stop="20180410021100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410021100 -0300" stop="20180410022900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410022900 -0300" stop="20180410024100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410024100 -0300" stop="20180410025900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410025900 -0300" stop="20180410030000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410030000 -0300" stop="20180410031200 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410031200 -0300" stop="20180410033000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410033000 -0300" stop="20180410034100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410034100 -0300" stop="20180410035800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410035800 -0300" stop="20180410040000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410040000 -0300" stop="20180410041700 -0300" channel="Cartoon Network">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410041700 -0300" stop="20180410043000 -0300" channel="Cartoon Network">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410043000 -0300" stop="20180410043700 -0300" channel="Cartoon Network">
+    <title lang="pt">Eu Sou o Máximo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410043700 -0300" stop="20180410045000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410045000 -0300" stop="20180410045700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410045700 -0300" stop="20180410050000 -0300" channel="Cartoon Network">
+    <title lang="pt">Du, Dudu e Edu</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410050000 -0300" stop="20180410050700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410050700 -0300" stop="20180410052400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410052400 -0300" stop="20180410053000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410053000 -0300" stop="20180410054700 -0300" channel="Cartoon Network">
+    <title lang="pt">Chowder</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410054700 -0300" stop="20180410060000 -0300" channel="Cartoon Network">
+    <title lang="pt">Chowder</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410060000 -0300" stop="20180410062600 -0300" channel="Cartoon Network">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410062600 -0300" stop="20180410063300 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410063300 -0300" stop="20180410064400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410064400 -0300" stop="20180410065100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410065100 -0300" stop="20180410065900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410065900 -0300" stop="20180410070800 -0300" channel="Cartoon Network">
+    <title lang="pt">Masha e o Urso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410070800 -0300" stop="20180410071100 -0300" channel="Cartoon Network">
+    <title lang="pt">The Happos Family</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410071100 -0300" stop="20180410071900 -0300" channel="Cartoon Network">
+    <title lang="pt">Oddbods</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410071900 -0300" stop="20180410073000 -0300" channel="Cartoon Network">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410073000 -0300" stop="20180410074100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410074100 -0300" stop="20180410075400 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410075400 -0300" stop="20180410080500 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410080500 -0300" stop="20180410081900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410081900 -0300" stop="20180410083000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410083000 -0300" stop="20180410084400 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410084400 -0300" stop="20180410085500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410085500 -0300" stop="20180410090600 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410090600 -0300" stop="20180410091900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410091900 -0300" stop="20180410093000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410093000 -0300" stop="20180410094200 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410094200 -0300" stop="20180410094700 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410094700 -0300" stop="20180410095900 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410095900 -0300" stop="20180410100700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410100700 -0300" stop="20180410101700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410101700 -0300" stop="20180410102400 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410102400 -0300" stop="20180410103500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410103500 -0300" stop="20180410104900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410104900 -0300" stop="20180410110000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410110000 -0300" stop="20180410111200 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410111200 -0300" stop="20180410112400 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410112400 -0300" stop="20180410113600 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410113600 -0300" stop="20180410114900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410114900 -0300" stop="20180410120100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410120100 -0300" stop="20180410121200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410121200 -0300" stop="20180410121800 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410121800 -0300" stop="20180410123000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410123000 -0300" stop="20180410124100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410124100 -0300" stop="20180410125400 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410125400 -0300" stop="20180410130500 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410130500 -0300" stop="20180410131800 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410131800 -0300" stop="20180410132900 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410132900 -0300" stop="20180410134000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410134000 -0300" stop="20180410135400 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410135400 -0300" stop="20180410140600 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410140600 -0300" stop="20180410141900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410141900 -0300" stop="20180410143000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410143000 -0300" stop="20180410144100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410144100 -0300" stop="20180410145300 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410145300 -0300" stop="20180410150400 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410150400 -0300" stop="20180410152900 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410152900 -0300" stop="20180410160000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Super</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410160000 -0300" stop="20180410162500 -0300" channel="Cartoon Network">
+    <title lang="pt">Pokémon</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410162500 -0300" stop="20180410163600 -0300" channel="Cartoon Network">
+    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410163600 -0300" stop="20180410164900 -0300" channel="Cartoon Network">
+    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410164900 -0300" stop="20180410170000 -0300" channel="Cartoon Network">
+    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410170000 -0300" stop="20180410171300 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410171300 -0300" stop="20180410172400 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410172400 -0300" stop="20180410173600 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410173600 -0300" stop="20180410174800 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410174800 -0300" stop="20180410180000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410180000 -0300" stop="20180410181100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410181100 -0300" stop="20180410182500 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410182500 -0300" stop="20180410183600 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410183600 -0300" stop="20180410184900 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410184900 -0300" stop="20180410190100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410190100 -0300" stop="20180410191500 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410191500 -0300" stop="20180410192500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410192500 -0300" stop="20180410193800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410193800 -0300" stop="20180410194900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410194900 -0300" stop="20180410200200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410200200 -0300" stop="20180410201300 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410201300 -0300" stop="20180410213300 -0300" channel="Cartoon Network">
+    <title lang="pt">Cine Cartoon</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180410213300 -0300" stop="20180410214700 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410214700 -0300" stop="20180410215800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410215800 -0300" stop="20180410220900 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410220900 -0300" stop="20180410222200 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410222200 -0300" stop="20180410223300 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410223300 -0300" stop="20180410224700 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410224700 -0300" stop="20180410225800 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410225800 -0300" stop="20180410230900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410230900 -0300" stop="20180410232200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410232200 -0300" stop="20180410233300 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410233300 -0300" stop="20180410234500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410234500 -0300" stop="20180410235700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180410235700 -0300" stop="20180411000400 -0300" channel="Cartoon Network">
+    <title lang="pt">Johnny Bravo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411000400 -0300" stop="20180411001000 -0300" channel="Cartoon Network">
+    <title lang="pt">Johnny Bravo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411001000 -0300" stop="20180411001900 -0300" channel="Cartoon Network">
+    <title lang="pt">Johnny Bravo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411001900 -0300" stop="20180411002500 -0300" channel="Cartoon Network">
+    <title lang="pt">Johnny Bravo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411002500 -0300" stop="20180411003200 -0300" channel="Cartoon Network">
+    <title lang="pt">Johnny Bravo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411003200 -0300" stop="20180411004000 -0300" channel="Cartoon Network">
+    <title lang="pt">Johnny Bravo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411004000 -0300" stop="20180411004700 -0300" channel="Cartoon Network">
+    <title lang="pt">Johnny Bravo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411004700 -0300" stop="20180411005400 -0300" channel="Cartoon Network">
+    <title lang="pt">Johnny Bravo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411005400 -0300" stop="20180411010500 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411010500 -0300" stop="20180411011700 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411011700 -0300" stop="20180411012700 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411012700 -0300" stop="20180411013900 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411013900 -0300" stop="20180411015000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411015000 -0300" stop="20180411020100 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411020100 -0300" stop="20180411021200 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411021200 -0300" stop="20180411022400 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411022400 -0300" stop="20180411023600 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411023600 -0300" stop="20180411024800 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411024800 -0300" stop="20180411030000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411030000 -0300" stop="20180411031100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411031100 -0300" stop="20180411032300 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411032300 -0300" stop="20180411033500 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411033500 -0300" stop="20180411034600 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411034600 -0300" stop="20180411035800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411035800 -0300" stop="20180411040900 -0300" channel="Cartoon Network">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411040900 -0300" stop="20180411042100 -0300" channel="Cartoon Network">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411042100 -0300" stop="20180411042700 -0300" channel="Cartoon Network">
+    <title lang="pt">Eu Sou o Máximo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411042700 -0300" stop="20180411043500 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411043500 -0300" stop="20180411044200 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411044200 -0300" stop="20180411045300 -0300" channel="Cartoon Network">
+    <title lang="pt">Du, Dudu e Edu</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411045300 -0300" stop="20180411045900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411045900 -0300" stop="20180411050700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411050700 -0300" stop="20180411051400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411051400 -0300" stop="20180411052400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411052400 -0300" stop="20180411053500 -0300" channel="Cartoon Network">
+    <title lang="pt">Chowder</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411053500 -0300" stop="20180411054700 -0300" channel="Cartoon Network">
+    <title lang="pt">Chowder</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411054700 -0300" stop="20180411060000 -0300" channel="Cartoon Network">
+    <title lang="pt">Chowder</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411060000 -0300" stop="20180411063000 -0300" channel="Cartoon Network">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411063000 -0300" stop="20180411063800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411063800 -0300" stop="20180411065200 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411065200 -0300" stop="20180411065900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411065900 -0300" stop="20180411070000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411070000 -0300" stop="20180411071000 -0300" channel="Cartoon Network">
+    <title lang="pt">Masha e o Urso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411071000 -0300" stop="20180411071500 -0300" channel="Cartoon Network">
+    <title lang="pt">The Happos Family</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411071500 -0300" stop="20180411072000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oddbods</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411072000 -0300" stop="20180411073000 -0300" channel="Cartoon Network">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411073000 -0300" stop="20180411074100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411074100 -0300" stop="20180411075900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411075900 -0300" stop="20180411080000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411080000 -0300" stop="20180411081800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411081800 -0300" stop="20180411083000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411083000 -0300" stop="20180411084700 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411084700 -0300" stop="20180411090000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411090000 -0300" stop="20180411091200 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411091200 -0300" stop="20180411092900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411092900 -0300" stop="20180411093000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411093000 -0300" stop="20180411094800 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411094800 -0300" stop="20180411100000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411100000 -0300" stop="20180411100800 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411100800 -0300" stop="20180411102000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411102000 -0300" stop="20180411103000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411103000 -0300" stop="20180411104800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411104800 -0300" stop="20180411110000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411110000 -0300" stop="20180411111500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411111500 -0300" stop="20180411113000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411113000 -0300" stop="20180411114800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411114800 -0300" stop="20180411120000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411120000 -0300" stop="20180411121800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411121800 -0300" stop="20180411123000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411123000 -0300" stop="20180411124200 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411124200 -0300" stop="20180411130000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411130000 -0300" stop="20180411131100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411131100 -0300" stop="20180411132900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411132900 -0300" stop="20180411133000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411133000 -0300" stop="20180411134800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411134800 -0300" stop="20180411140000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411140000 -0300" stop="20180411141500 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411141500 -0300" stop="20180411143000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411143000 -0300" stop="20180411144800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411144800 -0300" stop="20180411150000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411150000 -0300" stop="20180411153000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411153000 -0300" stop="20180411160000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Super</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411160000 -0300" stop="20180411163000 -0300" channel="Cartoon Network">
+    <title lang="pt">Pokémon</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411163000 -0300" stop="20180411164800 -0300" channel="Cartoon Network">
+    <title lang="pt">Sonic Boom</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411164800 -0300" stop="20180411170000 -0300" channel="Cartoon Network">
+    <title lang="pt">Sonic Boom</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411170000 -0300" stop="20180411171500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411171500 -0300" stop="20180411173000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411173000 -0300" stop="20180411174800 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411174800 -0300" stop="20180411180000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411180000 -0300" stop="20180411181100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411181100 -0300" stop="20180411182900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411182900 -0300" stop="20180411184100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411184100 -0300" stop="20180411185900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411185900 -0300" stop="20180411190000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411190000 -0300" stop="20180411191000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411191000 -0300" stop="20180411191500 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411191500 -0300" stop="20180411192600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411192600 -0300" stop="20180411194400 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411194400 -0300" stop="20180411195400 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411195400 -0300" stop="20180411200000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411200000 -0300" stop="20180411201200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411201200 -0300" stop="20180411201500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411201500 -0300" stop="20180411203000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411203000 -0300" stop="20180411204500 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411204500 -0300" stop="20180411210000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411210000 -0300" stop="20180411211500 -0300" channel="Cartoon Network">
+    <title lang="pt">Unigata</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411211500 -0300" stop="20180411213000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411213000 -0300" stop="20180411214800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411214800 -0300" stop="20180411220000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411220000 -0300" stop="20180411221100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411221100 -0300" stop="20180411222900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411222900 -0300" stop="20180411224100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411224100 -0300" stop="20180411225900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411225900 -0300" stop="20180411230000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411230000 -0300" stop="20180411231000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411231000 -0300" stop="20180411231100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411231100 -0300" stop="20180411232900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411232900 -0300" stop="20180411233900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411233900 -0300" stop="20180411235700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180411235700 -0300" stop="20180412000000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412000000 -0300" stop="20180412000700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412000700 -0300" stop="20180412002000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412002000 -0300" stop="20180412002700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412002700 -0300" stop="20180412004100 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412004100 -0300" stop="20180412004800 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412004800 -0300" stop="20180412010000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412010000 -0300" stop="20180412011100 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412011100 -0300" stop="20180412012800 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412012800 -0300" stop="20180412013800 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412013800 -0300" stop="20180412015600 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412015600 -0300" stop="20180412020000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412020000 -0300" stop="20180412021100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412021100 -0300" stop="20180412022900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412022900 -0300" stop="20180412024100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412024100 -0300" stop="20180412025900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412025900 -0300" stop="20180412030000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412030000 -0300" stop="20180412031100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412031100 -0300" stop="20180412032900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412032900 -0300" stop="20180412034000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412034000 -0300" stop="20180412035800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412035800 -0300" stop="20180412040000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412040000 -0300" stop="20180412041700 -0300" channel="Cartoon Network">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412041700 -0300" stop="20180412043000 -0300" channel="Cartoon Network">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412043000 -0300" stop="20180412043700 -0300" channel="Cartoon Network">
+    <title lang="pt">Eu Sou o Máximo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412043700 -0300" stop="20180412045000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412045000 -0300" stop="20180412045700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412045700 -0300" stop="20180412050000 -0300" channel="Cartoon Network">
+    <title lang="pt">Du, Dudu e Edu</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412050000 -0300" stop="20180412050700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412050700 -0300" stop="20180412052000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412052000 -0300" stop="20180412053000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412053000 -0300" stop="20180412054700 -0300" channel="Cartoon Network">
+    <title lang="pt">Chowder</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412054700 -0300" stop="20180412060000 -0300" channel="Cartoon Network">
+    <title lang="pt">Chowder</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412060000 -0300" stop="20180412063000 -0300" channel="Cartoon Network">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412063000 -0300" stop="20180412063800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412063800 -0300" stop="20180412065200 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412065200 -0300" stop="20180412065900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412065900 -0300" stop="20180412070000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412070000 -0300" stop="20180412071000 -0300" channel="Cartoon Network">
+    <title lang="pt">Masha e o Urso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412071000 -0300" stop="20180412071500 -0300" channel="Cartoon Network">
+    <title lang="pt">The Happos Family</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412071500 -0300" stop="20180412072000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oddbods</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412072000 -0300" stop="20180412073000 -0300" channel="Cartoon Network">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412073000 -0300" stop="20180412074100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412074100 -0300" stop="20180412075900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412075900 -0300" stop="20180412080000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412080000 -0300" stop="20180412081800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412081800 -0300" stop="20180412083000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412083000 -0300" stop="20180412084700 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412084700 -0300" stop="20180412090000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412090000 -0300" stop="20180412091100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412091100 -0300" stop="20180412092900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412092900 -0300" stop="20180412093000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412093000 -0300" stop="20180412094800 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412094800 -0300" stop="20180412100000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412100000 -0300" stop="20180412100800 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412100800 -0300" stop="20180412102100 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412102100 -0300" stop="20180412103000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412103000 -0300" stop="20180412104700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412104700 -0300" stop="20180412110000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412110000 -0300" stop="20180412111500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412111500 -0300" stop="20180412113000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412113000 -0300" stop="20180412114800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412114800 -0300" stop="20180412120000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412120000 -0300" stop="20180412121700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412121700 -0300" stop="20180412123000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412123000 -0300" stop="20180412124200 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412124200 -0300" stop="20180412130000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412130000 -0300" stop="20180412131100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412131100 -0300" stop="20180412133000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412133000 -0300" stop="20180412134800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412134800 -0300" stop="20180412140000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412140000 -0300" stop="20180412141500 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412141500 -0300" stop="20180412143000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412143000 -0300" stop="20180412144700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412144700 -0300" stop="20180412150000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412150000 -0300" stop="20180412153000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412153000 -0300" stop="20180412160000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Super</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412160000 -0300" stop="20180412163000 -0300" channel="Cartoon Network">
+    <title lang="pt">Pokémon</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412163000 -0300" stop="20180412170000 -0300" channel="Cartoon Network">
+    <title lang="pt">Poderosas Magiespadas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412170000 -0300" stop="20180412171500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412171500 -0300" stop="20180412173000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412173000 -0300" stop="20180412174800 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412174800 -0300" stop="20180412180000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412180000 -0300" stop="20180412181800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412181800 -0300" stop="20180412184500 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412184500 -0300" stop="20180412190000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412190000 -0300" stop="20180412191500 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412191500 -0300" stop="20180412193000 -0300" channel="Cartoon Network">
+    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412193000 -0300" stop="20180412194500 -0300" channel="Cartoon Network">
+    <title lang="pt">Poderosas Magiespadas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412194500 -0300" stop="20180412200000 -0300" channel="Cartoon Network">
+    <title lang="pt">Tá Chovendo Hambúrguer - A Série</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412200000 -0300" stop="20180412214500 -0300" channel="Cartoon Network">
+    <title lang="pt">Cine Cartoon</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180412214500 -0300" stop="20180412215700 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412215700 -0300" stop="20180412220000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412220000 -0300" stop="20180412221200 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412221200 -0300" stop="20180412223000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412223000 -0300" stop="20180412224100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412224100 -0300" stop="20180412230000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412230000 -0300" stop="20180412231100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412231100 -0300" stop="20180412232800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412232800 -0300" stop="20180412233900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412233900 -0300" stop="20180412235600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180412235600 -0300" stop="20180413000000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413000000 -0300" stop="20180413001000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180413001000 -0300" stop="20180413001300 -0300" channel="Cartoon Network">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180413001300 -0300" stop="20180413003000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180413003000 -0300" stop="20180413004000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180413004000 -0300" stop="20180413005800 -0300" channel="Cartoon Network">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180413005800 -0300" stop="20180413010000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180413010000 -0300" stop="20180413011000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413011000 -0300" stop="20180413011100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180413011100 -0300" stop="20180413012800 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413012800 -0300" stop="20180413013800 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413013800 -0300" stop="20180413015500 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413015500 -0300" stop="20180413020000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413020000 -0300" stop="20180413021100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413021100 -0300" stop="20180413022900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413022900 -0300" stop="20180413024000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413024000 -0300" stop="20180413025800 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413025800 -0300" stop="20180413030000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413030000 -0300" stop="20180413031200 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413031200 -0300" stop="20180413032900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413032900 -0300" stop="20180413034100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413034100 -0300" stop="20180413035800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413035800 -0300" stop="20180413040000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413040000 -0300" stop="20180413041700 -0300" channel="Cartoon Network">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413041700 -0300" stop="20180413043000 -0300" channel="Cartoon Network">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413043000 -0300" stop="20180413043700 -0300" channel="Cartoon Network">
+    <title lang="pt">Eu Sou o Máximo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413043700 -0300" stop="20180413045000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413045000 -0300" stop="20180413045700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413045700 -0300" stop="20180413050000 -0300" channel="Cartoon Network">
+    <title lang="pt">Du, Dudu e Edu</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413050000 -0300" stop="20180413050700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413050700 -0300" stop="20180413052000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413052000 -0300" stop="20180413053000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413053000 -0300" stop="20180413054800 -0300" channel="Cartoon Network">
+    <title lang="pt">Chowder</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413054800 -0300" stop="20180413060000 -0300" channel="Cartoon Network">
+    <title lang="pt">Chowder</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413060000 -0300" stop="20180413063000 -0300" channel="Cartoon Network">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413063000 -0300" stop="20180413063800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413063800 -0300" stop="20180413065200 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413065200 -0300" stop="20180413065900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413065900 -0300" stop="20180413070000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413070000 -0300" stop="20180413071000 -0300" channel="Cartoon Network">
+    <title lang="pt">Corrida Maluca (2017)</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413071000 -0300" stop="20180413071500 -0300" channel="Cartoon Network">
+    <title lang="pt">The Happos Family</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413071500 -0300" stop="20180413073000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dorothy e o Mágico de Oz</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413073000 -0300" stop="20180413074100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413074100 -0300" stop="20180413075900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413075900 -0300" stop="20180413080000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413080000 -0300" stop="20180413081800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413081800 -0300" stop="20180413083000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413083000 -0300" stop="20180413084800 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413084800 -0300" stop="20180413090000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413090000 -0300" stop="20180413091100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413091100 -0300" stop="20180413092900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413092900 -0300" stop="20180413093000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413093000 -0300" stop="20180413094800 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413094800 -0300" stop="20180413100000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413100800 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413100800 -0300" stop="20180413102100 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413102100 -0300" stop="20180413103000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413103000 -0300" stop="20180413104800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413104800 -0300" stop="20180413110000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413110000 -0300" stop="20180413111500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413111500 -0300" stop="20180413113000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413113000 -0300" stop="20180413114800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413114800 -0300" stop="20180413120000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413120000 -0300" stop="20180413121800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413121800 -0300" stop="20180413123000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413123000 -0300" stop="20180413124100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413124100 -0300" stop="20180413125900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413125900 -0300" stop="20180413130800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413130800 -0300" stop="20180413132600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413132600 -0300" stop="20180413133000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413133000 -0300" stop="20180413134800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413134800 -0300" stop="20180413140000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413140000 -0300" stop="20180413141500 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413141500 -0300" stop="20180413143000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413143000 -0300" stop="20180413144800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413144800 -0300" stop="20180413150000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413150000 -0300" stop="20180413153000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413153000 -0300" stop="20180413160000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Super</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413160000 -0300" stop="20180413163000 -0300" channel="Cartoon Network">
+    <title lang="pt">Beyblade Burst</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413163000 -0300" stop="20180413164800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413164800 -0300" stop="20180413170000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413170000 -0300" stop="20180413171500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413171500 -0300" stop="20180413173000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413173000 -0300" stop="20180413174800 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413174800 -0300" stop="20180413180000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413180000 -0300" stop="20180413181100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413181100 -0300" stop="20180413182800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413182800 -0300" stop="20180413183900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413183900 -0300" stop="20180413185700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413185700 -0300" stop="20180413190000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413190000 -0300" stop="20180413191500 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413191500 -0300" stop="20180413200200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413200200 -0300" stop="20180413214500 -0300" channel="Cartoon Network">
+    <title lang="pt">Cine Cartoon</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180413214500 -0300" stop="20180413215700 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413215700 -0300" stop="20180413220000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413220000 -0300" stop="20180413221100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413221100 -0300" stop="20180413222800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413222800 -0300" stop="20180413223900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413223900 -0300" stop="20180413225700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413225700 -0300" stop="20180413230000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413230000 -0300" stop="20180413231100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413231100 -0300" stop="20180413232900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413232900 -0300" stop="20180413233900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413233900 -0300" stop="20180413235600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180413235600 -0300" stop="20180414000000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414000000 -0300" stop="20180414001100 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180414001100 -0300" stop="20180414002800 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180414002800 -0300" stop="20180414003900 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180414003900 -0300" stop="20180414005600 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180414005600 -0300" stop="20180414010000 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180414010000 -0300" stop="20180414010700 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414010700 -0300" stop="20180414011100 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180414011100 -0300" stop="20180414012700 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414012700 -0300" stop="20180414013800 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414013800 -0300" stop="20180414015500 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414015500 -0300" stop="20180414020000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414020000 -0300" stop="20180414021100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414021100 -0300" stop="20180414022900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414022900 -0300" stop="20180414024100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414024100 -0300" stop="20180414025900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414025900 -0300" stop="20180414030000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414030000 -0300" stop="20180414031200 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414031200 -0300" stop="20180414032900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414032900 -0300" stop="20180414034100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414034100 -0300" stop="20180414035800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414035800 -0300" stop="20180414040000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414040000 -0300" stop="20180414041100 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180414041100 -0300" stop="20180414042800 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180414042800 -0300" stop="20180414043000 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180414043000 -0300" stop="20180414044700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414044700 -0300" stop="20180414050000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414050000 -0300" stop="20180414051100 -0300" channel="Cartoon Network">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414051100 -0300" stop="20180414052800 -0300" channel="Cartoon Network">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414052800 -0300" stop="20180414053000 -0300" channel="Cartoon Network">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414053000 -0300" stop="20180414060000 -0300" channel="Cartoon Network">
+    <title lang="pt">Megas XLR</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414060000 -0300" stop="20180414061100 -0300" channel="Cartoon Network">
+    <title lang="pt">Mr. Bean</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414061100 -0300" stop="20180414062800 -0300" channel="Cartoon Network">
+    <title lang="pt">Mr. Bean</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414062800 -0300" stop="20180414063000 -0300" channel="Cartoon Network">
+    <title lang="pt">Mr. Bean</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414063000 -0300" stop="20180414070000 -0300" channel="Cartoon Network">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414070000 -0300" stop="20180414070700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414070700 -0300" stop="20180414072100 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414072100 -0300" stop="20180414072800 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414072800 -0300" stop="20180414073000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414073000 -0300" stop="20180414074800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414074800 -0300" stop="20180414080000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414080000 -0300" stop="20180414081100 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414081100 -0300" stop="20180414082900 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414082900 -0300" stop="20180414084100 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414084100 -0300" stop="20180414085900 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414085900 -0300" stop="20180414090000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414090000 -0300" stop="20180414091100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414091100 -0300" stop="20180414092900 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414092900 -0300" stop="20180414094100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414094100 -0300" stop="20180414095900 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414095900 -0300" stop="20180414100000 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414100000 -0300" stop="20180414101100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414101100 -0300" stop="20180414102900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414102900 -0300" stop="20180414104100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414104100 -0300" stop="20180414104700 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414104700 -0300" stop="20180414110000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414110000 -0300" stop="20180414111100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414111100 -0300" stop="20180414112900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414112900 -0300" stop="20180414113900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414113900 -0300" stop="20180414115600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414115600 -0300" stop="20180414120000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414120000 -0300" stop="20180414134500 -0300" channel="Cartoon Network">
+    <title lang="pt">Cine Cartoon</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180414134500 -0300" stop="20180414135700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414135700 -0300" stop="20180414140000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414140000 -0300" stop="20180414141100 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414141100 -0300" stop="20180414142900 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414142900 -0300" stop="20180414144100 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414144100 -0300" stop="20180414145900 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414145900 -0300" stop="20180414150000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414150000 -0300" stop="20180414151800 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414151800 -0300" stop="20180414153000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414153000 -0300" stop="20180414154700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414154700 -0300" stop="20180414160000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414160000 -0300" stop="20180414163000 -0300" channel="Cartoon Network">
+    <title lang="pt">Transformers Robots In Disguise</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414163000 -0300" stop="20180414170000 -0300" channel="Cartoon Network">
+    <title lang="pt">Power Rangers Ninja Steel</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180414170000 -0300" stop="20180414171500 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414171500 -0300" stop="20180414174500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414174500 -0300" stop="20180414181500 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414181500 -0300" stop="20180414183000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414183000 -0300" stop="20180414184800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414184800 -0300" stop="20180414190000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414190000 -0300" stop="20180414191100 -0300" channel="Cartoon Network">
+    <title lang="pt">Poderosas Magiespadas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414191100 -0300" stop="20180414192900 -0300" channel="Cartoon Network">
+    <title lang="pt">Poderosas Magiespadas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414192900 -0300" stop="20180414200000 -0300" channel="Cartoon Network">
+    <title lang="pt">Poderosas Magiespadas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414200000 -0300" stop="20180414220000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414220000 -0300" stop="20180414221800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414221800 -0300" stop="20180414223000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414223000 -0300" stop="20180414224700 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura: Lealdade ao Rei</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414224700 -0300" stop="20180414230000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180414230000 -0300" stop="20180415010000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Super</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415010000 -0300" stop="20180415011100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415011100 -0300" stop="20180415012900 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415012900 -0300" stop="20180415014000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415014000 -0300" stop="20180415015800 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415015800 -0300" stop="20180415020000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415020000 -0300" stop="20180415021200 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415021200 -0300" stop="20180415022900 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415022900 -0300" stop="20180415024100 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415024100 -0300" stop="20180415025900 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415025900 -0300" stop="20180415030000 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415030000 -0300" stop="20180415031200 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415031200 -0300" stop="20180415032900 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415032900 -0300" stop="20180415034100 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415034100 -0300" stop="20180415035900 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415035900 -0300" stop="20180415040000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415040000 -0300" stop="20180415041100 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180415041100 -0300" stop="20180415042800 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180415042800 -0300" stop="20180415043000 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180415043000 -0300" stop="20180415044800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415044800 -0300" stop="20180415050000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415050000 -0300" stop="20180415051100 -0300" channel="Cartoon Network">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415051100 -0300" stop="20180415052800 -0300" channel="Cartoon Network">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415052800 -0300" stop="20180415053000 -0300" channel="Cartoon Network">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415053000 -0300" stop="20180415060000 -0300" channel="Cartoon Network">
+    <title lang="pt">Megas XLR</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415060000 -0300" stop="20180415070000 -0300" channel="Cartoon Network">
+    <title lang="pt">Tom e Jerry - Aventura Gigante</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180415070000 -0300" stop="20180415071800 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415071800 -0300" stop="20180415073000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415073000 -0300" stop="20180415074200 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415074200 -0300" stop="20180415075900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415075900 -0300" stop="20180415080000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415080000 -0300" stop="20180415081000 -0300" channel="Cartoon Network">
+    <title lang="pt">Corrida Maluca (2017)</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415081000 -0300" stop="20180415081500 -0300" channel="Cartoon Network">
+    <title lang="pt">The Happos Family</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415081500 -0300" stop="20180415083000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dorothy e o Mágico de Oz</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415083000 -0300" stop="20180415084500 -0300" channel="Cartoon Network">
+    <title lang="pt">Tá Chovendo Hambúrguer - A Série</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415084500 -0300" stop="20180415085300 -0300" channel="Cartoon Network">
+    <title lang="pt">Masha e o Urso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415085300 -0300" stop="20180415090000 -0300" channel="Cartoon Network">
+    <title lang="pt">Masha e o Urso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415090000 -0300" stop="20180415091800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415091800 -0300" stop="20180415100000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415100000 -0300" stop="20180415101800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415101800 -0300" stop="20180415103000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415103000 -0300" stop="20180415110000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415110000 -0300" stop="20180415110700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415110700 -0300" stop="20180415111400 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415111400 -0300" stop="20180415112100 -0300" channel="Cartoon Network">
+    <title lang="pt">Mônica Toy</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415112100 -0300" stop="20180415112800 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415112800 -0300" stop="20180415113500 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415113500 -0300" stop="20180415114200 -0300" channel="Cartoon Network">
+    <title lang="pt">Mônica Toy</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415114200 -0300" stop="20180415114800 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415114800 -0300" stop="20180415120000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415120000 -0300" stop="20180415121100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415121100 -0300" stop="20180415122900 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415122900 -0300" stop="20180415124100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415124100 -0300" stop="20180415125900 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415125900 -0300" stop="20180415130000 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415130000 -0300" stop="20180415131100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415131100 -0300" stop="20180415132900 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415132900 -0300" stop="20180415134100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415134100 -0300" stop="20180415135900 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415135900 -0300" stop="20180415140000 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show no Espaço</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415140000 -0300" stop="20180415141100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415141100 -0300" stop="20180415142900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415142900 -0300" stop="20180415144100 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415144100 -0300" stop="20180415145900 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415145900 -0300" stop="20180415150000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415150000 -0300" stop="20180415151100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415151100 -0300" stop="20180415152800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415152800 -0300" stop="20180415153900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415153900 -0300" stop="20180415155600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415155600 -0300" stop="20180415160000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415160000 -0300" stop="20180415161200 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura: Criado</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415161200 -0300" stop="20180415163000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura: Donny</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415163000 -0300" stop="20180415164100 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415164100 -0300" stop="20180415165800 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415165800 -0300" stop="20180415170000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415170000 -0300" stop="20180415170900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415170900 -0300" stop="20180415171800 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415171800 -0300" stop="20180415173000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415173000 -0300" stop="20180415174800 -0300" channel="Cartoon Network">
+    <title lang="pt">Tromba Trem</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415174800 -0300" stop="20180415180000 -0300" channel="Cartoon Network">
+    <title lang="pt">Tromba Trem</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415180000 -0300" stop="20180415193000 -0300" channel="Cartoon Network">
+    <title lang="pt">Barbie e os Golfinhos Mágicos</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180415193000 -0300" stop="20180415194100 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415194100 -0300" stop="20180415195300 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415195300 -0300" stop="20180415200000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415200000 -0300" stop="20180415213000 -0300" channel="Cartoon Network">
+    <title lang="pt">Cine Cartoon</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180415213000 -0300" stop="20180415214800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415214800 -0300" stop="20180415220000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415220000 -0300" stop="20180415221800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415221800 -0300" stop="20180415223000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415223000 -0300" stop="20180415224800 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415224800 -0300" stop="20180415230000 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415230000 -0300" stop="20180415231800 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415231800 -0300" stop="20180415234500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180415234500 -0300" stop="20180416000000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+</tv>
