@@ -1,0 +1,217 @@
+﻿[        ] 
+[        ]              WebGrab+Plus/w MDB & REX Postprocess -- version  V2.1              
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 06/06/2018 19:38:26
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
+[  Debug ] Reading config file: C:\Users\Thomazyell\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
+[Warning ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Info  ] found: C:\Users\Thomazyell\AppData\Local\WebGrab+Plus\siteini.pack\Misc\dummy.ini -- Revision 02
+[  Info  ] found: C:\Users\Thomazyell\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\meuguia.tv.ini -- Revision 04
+[  Debug ] element site: System.FormatException: A cadeia de caracteres de entrada não estava em um formato correto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em WGconsole.SiteIni..ctor(String ini_file)
+
+[  Info  ] input file C:\Users\Thomazyell\AppData\Local\WebGrab+Plus\guide.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 56 - out of - 56 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/56  ) DUMMY -- chan. (xmltv_id=Example) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Example
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           1
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        1
+
+[  Debug ] 
+[  Info  ] (   2/56  ) MEUGUIA.TV -- chan. (xmltv_id=AMC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/56  ) MEUGUIA.TV -- chan. (xmltv_id=AXN HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/56  ) MEUGUIA.TV -- chan. (xmltv_id=Animal Planet) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/56  ) MEUGUIA.TV -- chan. (xmltv_id=Band HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/56  ) MEUGUIA.TV -- chan. (xmltv_id=Band Sports) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/56  ) MEUGUIA.TV -- chan. (xmltv_id=Band News) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/56  ) MEUGUIA.TV -- chan. (xmltv_id=Bis HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/56  ) MEUGUIA.TV -- chan. (xmltv_id=Boomerang) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/56  ) MEUGUIA.TV -- chan. (xmltv_id=Cartoon Network HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/56  ) MEUGUIA.TV -- chan. (xmltv_id=Cinemax HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/56  ) MEUGUIA.TV -- chan. (xmltv_id=Comedy Central) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/56  ) MEUGUIA.TV -- chan. (xmltv_id=Discovery Channel) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/56  ) MEUGUIA.TV -- chan. (xmltv_id=Disney Channel) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/56  ) MEUGUIA.TV -- chan. (xmltv_id=Disney XD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/56  ) MEUGUIA.TV -- chan. (xmltv_id=FOX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  17/56  ) MEUGUIA.TV -- chan. (xmltv_id=FX HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  18/56  ) MEUGUIA.TV -- chan. (xmltv_id=H2 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  19/56  ) MEUGUIA.TV -- chan. (xmltv_id=HBO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  20/56  ) MEUGUIA.TV -- chan. (xmltv_id=HBO 2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  21/56  ) MEUGUIA.TV -- chan. (xmltv_id=HBO Family) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  22/56  ) MEUGUIA.TV -- chan. (xmltv_id=HBO Plus) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  23/56  ) MEUGUIA.TV -- chan. (xmltv_id=HBO Plus e ) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  24/56  ) MEUGUIA.TV -- chan. (xmltv_id=HBO Signature) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  25/56  ) MEUGUIA.TV -- chan. (xmltv_id=History Channel HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  26/56  ) MEUGUIA.TV -- chan. (xmltv_id=MAX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  27/56  ) MEUGUIA.TV -- chan. (xmltv_id=Max Prime HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  28/56  ) MEUGUIA.TV -- chan. (xmltv_id=Max Prime e) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  29/56  ) MEUGUIA.TV -- chan. (xmltv_id=Max Up HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  30/56  ) MEUGUIA.TV -- chan. (xmltv_id=Megapix) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  31/56  ) MEUGUIA.TV -- chan. (xmltv_id=MTV HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  32/56  ) MEUGUIA.TV -- chan. (xmltv_id=Multishow HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/56  ) MEUGUIA.TV -- chan. (xmltv_id=NatGeoWild HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/56  ) MEUGUIA.TV -- chan. (xmltv_id=National Geographic) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/56  ) MEUGUIA.TV -- chan. (xmltv_id=Nick hd) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/56  ) MEUGUIA.TV -- chan. (xmltv_id=OFF HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/56  ) MEUGUIA.TV -- chan. (xmltv_id=Paramount Channel) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  38/56  ) MEUGUIA.TV -- chan. (xmltv_id=Record HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  39/56  ) MEUGUIA.TV -- chan. (xmltv_id=Record News) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  40/56  ) MEUGUIA.TV -- chan. (xmltv_id=Space HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  41/56  ) MEUGUIA.TV -- chan. (xmltv_id=Studio Universa) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  42/56  ) MEUGUIA.TV -- chan. (xmltv_id=Syfy) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  43/56  ) MEUGUIA.TV -- chan. (xmltv_id=TBS HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  44/56  ) MEUGUIA.TV -- chan. (xmltv_id=TCM) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  45/56  ) MEUGUIA.TV -- chan. (xmltv_id=Telecine Action) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  46/56  ) MEUGUIA.TV -- chan. (xmltv_id=Telecine Cult) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  47/56  ) MEUGUIA.TV -- chan. (xmltv_id=Telecine Fun) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  48/56  ) MEUGUIA.TV -- chan. (xmltv_id=Telecine Pipoca) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  49/56  ) MEUGUIA.TV -- chan. (xmltv_id=Telecine Premium) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/56  ) MEUGUIA.TV -- chan. (xmltv_id=Telecine Touch) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  51/56  ) MEUGUIA.TV -- chan. (xmltv_id=TNT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  52/56  ) MEUGUIA.TV -- chan. (xmltv_id=Tooncast) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/56  ) MEUGUIA.TV -- chan. (xmltv_id=Viva) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  54/56  ) MEUGUIA.TV -- chan. (xmltv_id=Warner Channel HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  55/56  ) MEUGUIA.TV -- chan. (xmltv_id=Woohoo) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/56  ) MEUGUIA.TV -- chan. (xmltv_id=Canal Sony) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 315 shows in 56 channels
+[  Debug ] 0 updated shows
+[  Debug ] 315 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 06/06/2018 19:42:41 done in 4m 14s
+[  Debug ] statistics upload error: O servidor remoto retornou um erro: (404) Não Localizado.
